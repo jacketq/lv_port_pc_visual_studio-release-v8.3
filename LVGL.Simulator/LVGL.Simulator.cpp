@@ -115,7 +115,7 @@ int main()
     lv_obj_t* label = lv_label_create(obj);
     lv_label_set_text(label, "DFS");      // 设置文本
     lv_label_set_long_mode(label, LV_LABEL_LONG_SCROLL);  // 长文本滚动
-    lv_obj_set_style_text_color(label, lv_color_hex(0xFF0000), 0); // 红色文本
+    lv_obj_set_style_text_color(label, lv_color_hex(0xFF0FF0), 0); // 红色文本
     while (!lv_win32_quit_signal)
     {
         lv_task_handler();
