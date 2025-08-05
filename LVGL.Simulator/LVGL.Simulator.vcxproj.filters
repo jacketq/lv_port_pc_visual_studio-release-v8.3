@@ -1317,12 +1317,6 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\msgbox\lv_example_msgbox_1.c">
       <Filter>lvgl\examples\widgets\msgbox</Filter>
     </ClCompile>
-    <ClCompile Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\obj\lv_example_obj_1.c">
-      <Filter>lvgl\examples\widgets\obj</Filter>
-    </ClCompile>
-    <ClCompile Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\obj\lv_example_obj_2.c">
-      <Filter>lvgl\examples\widgets\obj</Filter>
-    </ClCompile>
     <ClCompile Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\roller\lv_example_roller_1.c">
       <Filter>lvgl\examples\widgets\roller</Filter>
     </ClCompile>
@@ -5530,12 +5524,6 @@
       <Filter>lvgl\examples\widgets\msgbox</Filter>
     </None>
     <None Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\obj\index.rst">
-      <Filter>lvgl\examples\widgets\obj</Filter>
-    </None>
-    <None Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\obj\lv_example_obj_1.py">
-      <Filter>lvgl\examples\widgets\obj</Filter>
-    </None>
-    <None Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\obj\lv_example_obj_2.py">
       <Filter>lvgl\examples\widgets\obj</Filter>
     </None>
     <None Include="$(MSBuildThisFileDirectory)lvgl\examples\widgets\roller\index.rst">
